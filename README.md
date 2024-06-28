@@ -1,7 +1,6 @@
 - `data`: tabelas com os dados e banco de dados do postgresql
 - `docs`: documentações do projeto, passo a passo, burndown
 - `codes`: notebooks
-- Link do Kaggle (notebbok `criptomoedas.ipynb`): https://www.kaggle.com/code/nayanesenhorinha/criptomoedas
-- Link do Colab (notebook `limpeza_dados.ipynb`): https://colab.research.google.com/drive/1YG5gjUd_U4DTcCLT1nWnvxXCBRylLn0G?usp=sharing
+- Link no Kaggle: https://www.kaggle.com/code/nayanesenhorinha/criptomoedas
+- Link no Colab: https://colab.research.google.com/drive/18HE1aCitDquoij-ISkR_Mr6LZxdZ7kBY?usp=sharing
 - Link do Trello: https://trello.com/invite/b/SbRGYUpX/ATTI79161cb433f3b058b7980763fb79ef39CBED9D34/squad-4
-- Repositório com o dataframe: https://github.com/razevedomil/Dados_Moeda
