@@ -34,8 +34,8 @@ Os dados utilizados foram obtidos do [Kaggle](https://www.kaggle.com/datasets/su
 3. Execute todas as células do notebook para executar a análise e visualizar os resultados.
 ### Executando Localmente
 1. Clone este repositório:
-> git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+> git clone https://github.com/gabrielxvnx/M3_GRUPO.git
+> cd M3_GRUPO
 2. Instale as bibliotecas necessárias:
 > pip install -r requirements.txt
 3. Abra o Jupyter Notebook:
